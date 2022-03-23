@@ -1,4 +1,4 @@
-# Ganseo-big-data-contest
+# Gangseo-big-data-contest
 강서구 빅데이터 공모전 깃허브 
 
 ## ■ 공모주제: 개방된 데이터를 활용하여 주민의 생활불편 해결 성공사례 및 공공 이익·발전에 기여할 수 있는 자유주제
